@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1622271436 source:c:\users\daans\documents\codeblock code\peizobuzzer_avr\peizobuzzer\fuse.c
+	<avr/io.h>
+
+1622276797 source:c:\users\daans\documents\codeblock code\peizobuzzer_avr\peizobuzzer\main.c
+	<avr/io.h>
+	"peizo.h"
+
+1622277825 source:c:\users\daans\documents\codeblock code\peizobuzzer_avr\peizobuzzer\peizo.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"peizo.h"
+
+1622273581 c:\users\daans\documents\codeblock code\peizobuzzer_avr\peizobuzzer\peizo.h
+
